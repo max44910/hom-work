@@ -8,3 +8,4 @@ def calculate_circumference(radius):
 
 circle_radius = 5
 circumference_result = calculate_circumference(circle_radius)
+print(circumference_result)
